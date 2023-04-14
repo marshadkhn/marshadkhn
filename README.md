@@ -1,7 +1,6 @@
 <img src="mario.gif" alt="banner">
 <div align="center">
     <h1 align="left">😎 <b>ARSHAD KHAN </b></h1>
-    <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
 
 **`Full Stack Developer | Web 3.0`**
