@@ -44,8 +44,3 @@ Welcome to my Github profile, I'm <b>ARSHAD !</b>  As a highly motivated and dis
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marshadkhn&theme=dark)
 </div>
-<br />
-<br />
-#� �m�a�r�s�h�a�d�k�h�n�
-�
-�
