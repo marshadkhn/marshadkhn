@@ -1,6 +1,6 @@
 <img src="mario.gif" alt="banner">
 <div align="center">
-    <h1 align="left">😎 <b>ARSHAD </b></h1>
+    <h1 align="left">😎 <b>ARSHAD KHAN</b></h1>
 </div>
 
 **`Full Stack Developer (AIM) | Web 3.0`**
