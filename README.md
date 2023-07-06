@@ -1,7 +1,8 @@
-<div align="center">
-    <h1 align="left"><b>ARSHAD KHAN ✨</b></h1>
-</div>
-
+<pre>
+-----------------------------------------------------------------------------
+<b>Me         :</b>  <b>Arshad Khan</b>
+<b>About      :</b>  Programmer, Web Developer and Open Source Enthusiast
+-----------------------------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshadkhn&label=Profile%20views&color=0e75b6&style=flat" alt="marshadkhn" /> </p>
 
 <p style='text-align: justify;'>
